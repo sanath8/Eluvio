@@ -1,0 +1,3 @@
+Max length of Strand = 27648
+File Name = sample.2 Offset = 3072
+File Name = sample.3 Offset = 17408
